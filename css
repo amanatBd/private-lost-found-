@@ -1,0 +1,8 @@
+lib/
+ ├── main.dart
+ └── screens/
+     ├── home_screen.dart
+     └── post_screen.dart
+assets/
+ └── logo.png (তুমি নিজে একটা লোগো যোগ করো এখানে)
+pubspec.yaml
